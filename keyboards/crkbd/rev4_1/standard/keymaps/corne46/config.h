@@ -1,0 +1,4 @@
+#define MANUFACTURER "MkKvcs"
+#define TAPPING_TERM 200
+#define PERMISSIVE_HOLD
+#define CHORDAL_HOLD
