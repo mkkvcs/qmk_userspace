@@ -82,11 +82,11 @@
       "KC_RALT",
       "KC_RCTL",
       "KC_NO",
-      "HU_EQL",
-      "HU_LPRN",
+      "HU_QUOT",
+      "HU_DQUO",
       "HU_PLUS",
       "HU_MINS",
-      "HU_RPRN",
+      "LALT(HU_IACU)",
       "HU_COMM",
       "KC_F7",
       "KC_F8",
@@ -226,6 +226,7 @@
       "KC_NO",
       "HU_EACU",
       "HU_AACU",
+      "RM_TOGG",
       "KC_NO",
       "KC_NO",
       "KC_NO",
@@ -237,13 +238,12 @@
       "KC_NO",
       "KC_NO",
       "KC_NO",
-      "KC_NO",
-      "KC_NO",
-      "KC_NO",
+      "KC_LALT",
+      "KC_LGUI",
       "KC_SPC",
       "KC_ENT",
-      "KC_NO",
-      "KC_NO"
+      "KC_RGUI",
+      "KC_RALT"
     ]
   ]
 }
